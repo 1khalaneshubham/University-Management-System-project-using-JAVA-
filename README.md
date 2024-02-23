@@ -12,9 +12,12 @@ This is a University Management System implemented in Java. It provides function
 ## Technologies Used
 
 - Java
-- MySQL (or any other database)
-- JavaFX (for GUI)
-- Maven (for dependency management)
+- Operating system	: Windows 11
+- Application server	: JAVA (NetBeans)
+- Front end	: JAVA
+- Connectivity	: JDBC Driver
+- Database connectivity	: WAMP (MYSQL Console)
+
 
 ## Screenshot 
 ### ![Dashboard 1](https://github.com/1khalaneshubham/University-Management-System-project-using-JAVA-/blob/main/Scrent%20shot/Screenshot%20(4).png)
@@ -31,4 +34,4 @@ This is a University Management System implemented in Java. It provides function
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/university-management-system.git
+git clone https://github.com/1khalaneshubham/University-Management-System-project-using-JAVA-
