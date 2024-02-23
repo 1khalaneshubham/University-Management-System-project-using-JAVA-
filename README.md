@@ -16,9 +16,13 @@ This is a University Management System implemented in Java. It provides function
 - JavaFX (for GUI)
 - Maven (for dependency management)
 
+- ![Screenshot 1](/images/Screenshot (3).png)
+
 ## Installation
 
 1. Clone the repository:
 
 ```bash
+Screenshot (3)
+
 git clone https://github.com/your_username/university-management-system.git
