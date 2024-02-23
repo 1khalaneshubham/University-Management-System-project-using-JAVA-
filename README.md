@@ -16,7 +16,8 @@ This is a University Management System implemented in Java. It provides function
 - JavaFX (for GUI)
 - Maven (for dependency management)
 
-- ![Screenshot 1](/images/Screenshot (3).png)
+- ![Screenshot 1](https://github.com/1khalaneshubham/University-Management-System-project-using-JAVA-/blob/main/Scrent%20shot/Screenshot%20(4).png)
+- https://github.com/1khalaneshubham/University-Management-System-project-using-JAVA-/blob/main/Scrent%20shot/Screenshot%20(4).png
 
 ## Installation
 
